@@ -1,6 +1,6 @@
 extends Node2D
 signal game_over
-const VELOCITY = 30
+const VELOCITY = 300
 
 var target
 var nav
